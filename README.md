@@ -1,4 +1,4 @@
-# Connect4
+# Graphing Calculator
 
 JDK  Used: JavaSE-1.8
 
